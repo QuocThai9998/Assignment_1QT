@@ -4,7 +4,7 @@
 
 #My student ID is 3957050
 
-Please carefully find my link to the website: https://github.com/Bailey198/Static-Website
+Please carefully find my link to the website: https://quocthai9998.github.io/Assignment_1QT/
 
 And also link to my GitHub page: 
 
