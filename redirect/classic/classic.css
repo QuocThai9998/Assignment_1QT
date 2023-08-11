@@ -1,3 +1,12 @@
+
+/* RMIT University Vietnam
+  Course: COSC2430 Web Programming
+  Semester: 2023A
+  Assessment: Assignment 1
+  Author: Nguyen Tu Quoc Thai
+  ID: s3957050
+*/
+
 *{
     box-sizing: border-box;
 }
@@ -217,7 +226,7 @@ footer{
     width: 100%;
 }
 .box-container a{
-    font-size: 50px;
+    font-size: 40px;
     justify-content: center;
     color:#fff;
 }

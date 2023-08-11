@@ -1,3 +1,11 @@
+/* RMIT University Vietnam
+  Course: COSC2430 Web Programming
+  Semester: 2023A
+  Assessment: Assignment 1
+  Author: Nguyen Tu Quoc Thai
+  ID: s3957050
+*/
+
 *{
     box-sizing: border-box;
 }
@@ -408,8 +416,8 @@ ul {
   
 /* .form-input form input, .form-input form text area */
 .form-input form textarea {
-    height: 6rem;
-    padding: 1em;
+    height: 8rem;
+    padding: 1rem;
     border: 0.5px solid #149cc567;
 }
   
@@ -418,8 +426,8 @@ ul {
   }
   
 .form-input form button {
-    width: 100%;
-    margin: 10px auto 0 100px;
+    width: 80%;
+    margin: 20px auto 0 10px;
     height: 2.5rem;
     background:  darkorange;
     border: none;
@@ -479,12 +487,6 @@ input[type='radio'] {
     .form-info ul li {
       margin-top: 2rem;
     }
-}
-
-#dropdown {
-    margin-top: 20px;
-    width: 180px;
-    height: 50px;
 }
 
 @media only screen and (max-width: 960px) {

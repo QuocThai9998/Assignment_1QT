@@ -1,8 +1,8 @@
 #Hi
 
-#My name is Nguyen Tu Quoc Thai
+My name is Nguyen Tu Quoc Thai
 
-#My student ID is 3957050
+My student ID is 3957050
 
 Please carefully find my link to the website: https://quocthai9998.github.io/Assignment_1QT/
 

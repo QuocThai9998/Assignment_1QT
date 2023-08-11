@@ -215,12 +215,18 @@ footer{
     flex-direction: column;
     flex-wrap: nowrap;
     width: 100%;
+    height: fit-content;
 }
 .box-container a{
     font-size: 50px;
     justify-content: center;
     color:#fff;
 }
+.box-container p{
+    font-size:20px;
+    justify-content: center;
+    color:#fff;
+}    
 .box{
     display: flex;
     flex-direction: row;
@@ -240,6 +246,7 @@ footer{
     height:200px;
     margin:20px;
 }
+   
 .box .book-description{
     margin: 40px;
     align-items: center;
