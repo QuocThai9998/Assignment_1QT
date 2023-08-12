@@ -223,6 +223,15 @@ footer{
     flex-wrap: wrap;
 
 }
+.box-container h3{
+    line-height: 55px;
+    font-size: 2.2rem;
+    color:darkorange;
+    letter-spacing: 1px;
+    font-weight: 60px;
+    margin: 20px;
+}
+
 .box{
     display: flex;
     flex-direction: column;
@@ -244,6 +253,7 @@ footer{
     height:200px;
     margin:10px;
 }
+
 
 .box p{
     font-size: 1rem;
@@ -370,8 +380,7 @@ footer{
     display: inline !important ;
     border: none !important ;
     text-transform: uppercase ;
-    font-size: 23px !important 
-
+    font-size: 30px !important 
 }
 
 .empty:hover {
